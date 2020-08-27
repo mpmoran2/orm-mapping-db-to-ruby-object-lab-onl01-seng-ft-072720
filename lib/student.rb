@@ -22,6 +22,9 @@ class Student
   def self.all_students_in_grade_9
   end 
   
+  def self.students_below_12th_grade
+  end 
+  
   def self
   end 
   
